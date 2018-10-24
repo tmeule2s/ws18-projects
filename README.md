@@ -1,5 +1,9 @@
 # Multi-Agent and Agent Systems project (WS18)
 
 | Team name | Team members | Travis build | Code Quality | Code coverage |
-| ----------| -------------| ------------ | ------------ | ------------- |
+| --------| -------------| ------------ | ------------ | ------------- |
 |[JSW](https://github.com/HBRS-MAAS/ws18-project-jsw) | [@janhavi19](https://github.com/janhavi19/)<br> [@SSMAbidi](https://github.com/ssmabidi/) <br> [@widyaaulia](https://github.com/widyaaulia/) | [![Build Status](https://travis-ci.org/HBRS-MAAS/ws18-project-jsw.svg?branch=master)](https://travis-ci.org/HBRS-MAAS/ws18-project-jsw) | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f30dbe2a3b6643d383ffa340370fe071)](https://www.codacy.com/app/ssmabidi/ws18-project-jsw?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=HBRS-MAAS/ws18-project-jsw&amp;utm_campaign=Badge_Grade) | [![Coverage Status](https://coveralls.io/repos/github/HBRS-MAAS/ws18-project-jsw/badge.svg?branch=master)](https://coveralls.io/github/HBRS-MAAS/ws18-project-jsw?branch=master) |
+
+| Team name | Team members | Travis build | Code Quality | Code coverage |
+| --------| -------------| ------------ | ------------ | ------------- |
+|[mas-maas](https://github.com/HBRS-MAAS/ws18-project-jsw) | [erickkramer](https://github.com/erickkramer)<br> [anenriquez](https://github.com/anenriquez) <br> [emassey2](https://github.com/emassey2) | [![Build Status](https://travis-ci.org/HBRS-MAAS/ws18-project-mas_maas.svg?branch=master)](https://travis-ci.org/HBRS-MAAS/ws18-project-mas_maas) | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1dc6be5861c74cdf92f44356da3b9ff6)](https://app.codacy.com/app/anenriquez/ws18-project-mas_maas?utm_source=github.com&utm_medium=referral&utm_content=HBRS-MAAS/ws18-project-mas_maas&utm_campaign=Badge_Grade_Dashboard)| [![Coverage Status](https://coveralls.io/repos/github/HBRS-MAAS/ws18-project-mas_maas/badge.svg?branch=master)](https://coveralls.io/github/HBRS-MAAS/ws18-project-mas_maas?branch=master)
